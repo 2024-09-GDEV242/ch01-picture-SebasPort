@@ -3,7 +3,9 @@ import java.awt.*;
 /**
  * A triangle that can be manipulated and that draws itself on a canvas.
  * 
- * @author  Michael Kšlling and David J. Barnes
+ * @author  Ever Sebastian Portillo Candia
+ * The Picture is suppossed to represent a planet (not earth necessarily) with
+ * a person on it with space as it's background.
  * @version 2016.02.29
  */
 
